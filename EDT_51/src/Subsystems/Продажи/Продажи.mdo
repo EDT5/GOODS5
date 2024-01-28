@@ -3,7 +3,7 @@
   <name>Продажи</name>
   <synonym>
     <key>ru</key>
-    <value>Продажи</value>
+    <value>Товары и продажи</value>
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
